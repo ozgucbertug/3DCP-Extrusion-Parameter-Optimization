@@ -1,4 +1,4 @@
-RunOrder,Replicate,A (Nozzle Diameter) ,B (Robot Speed),C (Extrusion Speed),C (Extrusion Speed in rpm),D (Layer Height),Layer Height,Layer Width
+run_order,replicate,nozzle_diameter,robot_speed,do,extrusion_speed,slice_height,layer_height,layer_width
 1.0,1,8,8,12,7.2,5,6.7,12.33
 1.0,2,8,8,12,7.2,5,6.88,11.71
 1.0,3,8,8,12,7.2,5,6.12,11.3
